@@ -21,6 +21,7 @@ class IndexScreen extends ConsumerStatefulWidget {
 
 class _IndexScreenState extends ConsumerState<IndexScreen> {
   int _selectedIndex = 0;
+  int monica_sari = 1 ;
 
   final _pages = [
     const HomeScreen(),
