@@ -1,0 +1,24 @@
+{
+  "language": "English",
+  "@language": {
+    "description": "The current language of the application"
+  },
+  "title": "Rawg.io List of Games",
+  "top_rated": "Top 5 best rated",
+  "top_metacritic": "Top 5 best rated on Metacritic",
+  "most_recent": "5 Most recent games",
+  "search": "Search",
+  "home": "Home",
+  "games": "Videogames",
+  "favorites": "Favorites",
+  "release_date": "Release date",
+  "metacritic": "Metacritic Score",
+  "filter_by_rating": "Rating",
+  "rawg": "Data provided by Rawg.io",
+  "added_to_favorites": "Added to favorites",
+  "removed_from_favorites": "Removed from favorites",
+  "my_favorites": "My favorites",
+  "no_favorites": "No favorites yet",
+  "no_results": "No results",
+  "search_placeholder": "Search for a game"
+}

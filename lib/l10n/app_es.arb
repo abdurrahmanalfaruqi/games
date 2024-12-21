@@ -1,0 +1,21 @@
+{
+  "language": "Español",
+  "title": "Lista de juegos de Rawg.io",
+  "top_rated": "Top 5 mejor valorados",
+  "top_metacritic": "Top 5 mejor nota en Metacritic",
+  "most_recent": "Top 5 juegos más recientes",
+  "home": "Inicio",
+  "games": "Juegos",
+  "favorites": "Favoritos",
+  "search": "Buscar",
+  "release_date": "Lanzado el",
+  "metacritic": "Nota en Metacritic",
+  "filter_by_rating": "Valoración",
+  "rawg": "Datos sacados de Rawg.io",
+  "added_to_favorites": "Añadido a favoritos",
+  "removed_from_favorites": "Eliminado de favoritos",
+  "no_favorites": "No hay juegos en favoritos",
+  "my_favorites": "Mis favoritos",
+  "no_results": "No hay resultados",
+  "search_placeholder": "Buscar juegos"
+}
